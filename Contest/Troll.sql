@@ -1,0 +1,1 @@
+SELECT count(DISTINCT flight_id) FROM booking WHERE pax_id IN (SELECT id FROM Pax WHERE race = 'Trolls');
