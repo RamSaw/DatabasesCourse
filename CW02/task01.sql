@@ -1,0 +1,1 @@
+SELECT isoffered FROM pies;

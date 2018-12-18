@@ -6,9 +6,14 @@
     <file url="file://$PROJECT_DIR$/CW02/schema1.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/CW02/schema2.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/CW02/schema3.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CW02/task01.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Contest/Median.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/Contest/T01.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/Contest/data.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/Contest/schema.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/../team-13/lab01.sql" dialect="PostgreSQL" />
+  </component>
+  <component name="SqlResolveMappings">
+    <file url="file://$PROJECT_DIR$/CW02/task01.sql" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;name&quot;:{     &quot;@name&quot;:&quot;c0167e33-4dc7-4d4f-b97e-48d0bbc2ded9&quot;,     &quot;@quoted&quot;:&quot;1&quot;    },    &quot;group&quot;:{     &quot;@kind&quot;:&quot;database&quot;,     &quot;node&quot;:{      &quot;name&quot;:{       &quot;@name&quot;:&quot;postgres&quot;,       &quot;@quoted&quot;:&quot;1&quot;      },      &quot;group&quot;:{       &quot;@kind&quot;:&quot;schema&quot;,       &quot;node&quot;:{        &quot;name&quot;:{         &quot;@name&quot;:&quot;contest&quot;,         &quot;@quoted&quot;:&quot;1&quot;        }       }      }     }    }   }  } }}" />
   </component>
 </project>
