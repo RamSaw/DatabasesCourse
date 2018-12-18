@@ -2,8 +2,13 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/CW01/web.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CW02/all-init.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CW02/schema1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CW02/schema2.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CW02/schema3.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/Contest/T01.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/Contest/data.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/Contest/schema.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../team-13/lab01.sql" dialect="PostgreSQL" />
   </component>
 </project>
