@@ -2,6 +2,9 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/CW01/web.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CW02/1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CW02/2.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/CW02/3.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/CW02/all-init.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/CW02/schema1.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/CW02/schema2.sql" dialect="PostgreSQL" />
