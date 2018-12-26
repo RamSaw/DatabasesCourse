@@ -13,4 +13,6 @@ SELECT * FROM volume JOIN europeanport ON volume.eu_port = europeanport.id
 ), no_percent AS (
 SELECT * FROM volume_with_country JOIN volume_country ON volume_with_country.country_id = volume_country.c_id
 )
-SELECT no_percent.eu_port, no_percent.c_id, no_percent.vol_port, ROUND(no_percent.vol_port / no_percent.country_volume * 100, 2) FROM no_percent
+SELECT RANK() OVER FROM volume_country GROUP BY country_volume
+--SELECT no_percent.eu_port, no_percent.c_id, no_percent.vol_port, ROUND(no_percent.vol_port / no_percent.country_volume * 100, 2)
+--FROM no_percent
